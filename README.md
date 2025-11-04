@@ -1,53 +1,30 @@
 # LU BLOGS - University Community Platform
 
-## Website Link
-(https://luhub.blog)
-
+🔗 Live Website: https://luhub.blog
 
 ## Demo Video
 https://drive.google.com/file/d/1HvYVWqN5SXDvLhl6AydTwMlsW8sCAaF_/view?usp=drivesdk
 
 
-## 📸 Screenshots
-
-### Homepage - Trending Posts
-![Homepage](screenshots/homepage.png)
-*Main feed showing trending posts with Reddit-style voting and categories*
-
-### Private Messaging
-![Private Messaging](screenshots/messaging1.png)
-![Private Messaging](screenshots/messaging2.png)
-![Private Messaging](screenshots/messaging3.png)
-*Real-time private messaging with typing indicators and online status*
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
-![Admin Dashboard](screenshots/admin-dashboard2.png)
-*Comprehensive admin panel with analytics and user management*
-
-### Post Creation
-![Create Post](screenshots/create-post.png)
-*Rich post creation interface with image upload and category selection*
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-*Fully responsive mobile interface optimized for touch interactions*
-
-### Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
-*Beautiful dark theme with glassmorphism effects*
-
-### Password Change
-![Password Change](screenshots/change-password.png)
-
-### My Posts
-![My Posts](screenshots/myposts.png)
-*It allows to edit and delete post.
-
-### Reward Page
-![Reward Page](screenshots/reward.png)
-*User can see their reward token on this page and can use to highlight their message.
-
+📸 Screenshots
+🏠 Homepage – Trending Posts
+<p align="center"> <img src="screenshots/homepage.png" alt="Homepage" width="75%"/> </p> <p align="center"><em>Main feed showing trending posts with Reddit-style voting and categories</em></p>
+💬 Private Messaging
+<p align="center"> <img src="screenshots/messaging1.png" alt="Messaging" width="45%"/> <img src="screenshots/messaging2.png" alt="Messaging" width="45%"/> </p> <p align="center"><em>Real-time private messaging with typing indicators and online status</em></p>
+⚙️ Admin Dashboard
+<p align="center"> <img src="screenshots/admin-dashboard.png" alt="Admin Dashboard" width="45%"/> <img src="screenshots/admin-dashboard2.png" alt="Admin Dashboard 2" width="45%"/> </p> <p align="center"><em>Comprehensive admin panel with analytics and user management</em></p>
+📝 Post Creation
+<p align="center"> <img src="screenshots/create-post.png" alt="Create Post" width="70%"/> </p> <p align="center"><em>Rich post creation interface with image upload and category selection</em></p>
+📱 Mobile View
+<p align="center"> <img src="screenshots/mobile-view.png" alt="Mobile View" width="40%"/> </p> <p align="center"><em>Fully responsive mobile interface optimized for touch</em></p>
+🌙 Dark Mode
+<p align="center"> <img src="screenshots/dark-mode.png" alt="Dark Mode" width="70%"/> </p> <p align="center"><em>Elegant dark theme with glassmorphism effects</em></p>
+🔑 Password Change
+<p align="center"> <img src="screenshots/change-password.png" alt="Password Change" width="70%"/> </p>
+🗂️ My Posts
+<p align="center"> <img src="screenshots/myposts.png" alt="My Posts" width="70%"/> </p> <p align="center"><em>View, edit, and delete your posts easily</em></p>
+🏅 Reward Page
+<p align="center"> <img src="screenshots/reward.png" alt="Reward Page" width="70%"/> </p> <p align="center"><em>Users earn tokens to highlight posts and boost engagement</em></p>
 
 
 **A modern, full-stack social blogging platform inspired by Reddit, built for university students to connect, share, and engage.**
