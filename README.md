@@ -1,10 +1,11 @@
 # LU BLOGS - University Community Platform
 
+## Website Link
+(https://luhub.blog)
 
-![LU BLOGS website link](https://luhub.blog)
-https://drive.google.com/file/d/1HvYVWqN5SXDvLhl6AydTwMlsW8sCAaF_/view?usp=drivesdk
 
 ## Demo Video
+https://drive.google.com/file/d/1HvYVWqN5SXDvLhl6AydTwMlsW8sCAaF_/view?usp=drivesdk
 
 
 ## 📸 Screenshots
@@ -331,92 +332,13 @@ This project demonstrates my ability to build a production-ready, full-stack web
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Developer
 
 **Faijan Ahamed**
 
-- **Portfolio**: [Your Portfolio URL]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub URL]
+- **Portfolio**: [https://portfoliofaijan.vercel.app]
+- **LinkedIn**: [www.linkedin.com/in/faijanahamed]
+- **Email**: [faijanahamed11@gmail.com]
+- **GitHub**: [https://github.com/faijanahamed11]
 
 ---
-
-## 🙏 Acknowledgments
-
-- Reddit for algorithm inspiration
-- Supabase for excellent documentation
-- The React and Node.js communities
-
----
-
-## 📸 Adding Screenshots to README
-
-### Step 1: Create Screenshots Folder
-Create a folder named `screenshots` in your project root:
-```bash
-mkdir screenshots
-```
-
-### Step 2: Take Screenshots
-Capture screenshots of your application:
-- Homepage/Feed
-- Post creation page
-- Private messaging
-- Admin dashboard
-- Mobile view
-- Dark mode
-- Any other key features
-
-### Step 3: Add Images to Folder
-Place your screenshot images in the `screenshots/` folder with descriptive names:
-- `homepage.png`
-- `messaging.png`
-- `admin-dashboard.png`
-- `create-post.png`
-- `mobile-view.png`
-- `dark-mode.png`
-
-### Step 4: Use in README
-The README already includes placeholder image references. Update them with your actual screenshot names, or use the format below:
-
-```markdown
-![Description](screenshots/your-image-name.png)
-```
-
-### Alternative: Using GitHub Issues/Comments
-You can also:
-1. Upload images to GitHub Issues
-2. Copy the image URL
-3. Use the URL in your README:
-   ```markdown
-   ![Description](https://user-images.githubusercontent.com/...)
-   ```
-
-### Alternative: Using Image Hosting Services
-- Upload to Imgur, Cloudinary, or similar services
-- Use the direct image URLs in your README
-
-### Best Practices for Screenshots
-- Use high-quality images (at least 1920px width)
-- Show the actual application, not mockups
-- Include annotations or labels for clarity
-- Show different states (empty, loading, populated)
-- Show both desktop and mobile views
-- Highlight key features visually
-
----
-
-<div align="center">
-
-**Made with ❤️ by Faijan Ahamed**
-
-⭐ Star this repo if you found it helpful!
-
-</div>
