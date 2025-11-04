@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* CSS Custom Properties for original colors */
+:root {
+  --color-original-bg: #F8D0B3;
+  --color-original-primary: #5D1F5E;
+  --color-original-accent: #FF6F61;
+  --color-original-secondary: #D1A6D4;
+}
+
+/* Custom base styles */
+@layer base {
+  body {
+    background-color: var(--color-original-bg);
+    color: var(--color-original-primary);
+    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}

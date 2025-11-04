@@ -1,0 +1,13 @@
+/* Simple mobile optimizations for private messages */
+@media screen and (max-width: 768px) {
+  /* Ensure input doesn't zoom on iOS */
+  .private-messages input[type="text"] {
+    font-size: 16px !important;
+  }
+  
+  /* Better scroll behavior */
+  .private-messages {
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
